@@ -5,10 +5,10 @@
 
 int main()
 {
-    int buf[10]
+    int buf[10];
     buf[1000] = 0; // <- ERROR
     
-    std::cout << "Hello World!\n";
+    std::cout << "Hello World!!!\n";
 }
 
 // 프로그램 실행: <Ctrl+F5> 또는 [디버그] > [디버깅하지 않고 시작] 메뉴
