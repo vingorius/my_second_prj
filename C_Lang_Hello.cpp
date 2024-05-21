@@ -8,7 +8,7 @@ int main()
     int buf[10];
     buf[1000] = 0; // <- ERROR
     
-    std::cout << "안녕하세요!\n";
+    std::cout << "니하오!\n";
 }
 
 // 프로그램 실행: <Ctrl+F5> 또는 [디버그] > [디버깅하지 않고 시작] 메뉴
